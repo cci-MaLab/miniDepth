@@ -1,0 +1,22 @@
+# GUI / viewer
+napari
+PyQt5
+pyvista
+xarray
+dask
+zarr
+scipy
+matplotlib
+numpy
+tifffile
+pandas
+
+# Segmentation (U-Net)
+torch
+torchvision
+albumentations
+opencv-python
+scikit-image
+scikit-learn
+seaborn
+torchsummary
